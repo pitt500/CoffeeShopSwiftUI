@@ -21,6 +21,7 @@
 		B53FD4882395DD7800EADB11 /* CreateOrderResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD4872395DD7800EADB11 /* CreateOrderResponse.swift */; };
 		B53FD48A2396251100EADB11 /* AddCoffeeOrderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD4892396251100EADB11 /* AddCoffeeOrderViewModel.swift */; };
 		B53FD48C239625EC00EADB11 /* CoffeeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD48B239625EC00EADB11 /* CoffeeViewModel.swift */; };
+		B53FD48E23A0280D00EADB11 /* AddCoffeeOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		B53FD4872395DD7800EADB11 /* CreateOrderResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateOrderResponse.swift; sourceTree = "<group>"; };
 		B53FD4892396251100EADB11 /* AddCoffeeOrderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderViewModel.swift; sourceTree = "<group>"; };
 		B53FD48B239625EC00EADB11 /* CoffeeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeViewModel.swift; sourceTree = "<group>"; };
+		B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 			children = (
 				B53FD4672395AA3600EADB11 /* ContentView.swift */,
 				B53FD4852395D5CF00EADB11 /* OrderListView.swift */,
+				B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				B53FD4802395CF2C00EADB11 /* WebService.swift in Sources */,
 				B53FD4862395D5CF00EADB11 /* OrderListView.swift in Sources */,
 				B53FD4882395DD7800EADB11 /* CreateOrderResponse.swift in Sources */,
+				B53FD48E23A0280D00EADB11 /* AddCoffeeOrderView.swift in Sources */,
 				B53FD4642395AA3600EADB11 /* AppDelegate.swift in Sources */,
 				B53FD4662395AA3600EADB11 /* SceneDelegate.swift in Sources */,
 				B53FD48C239625EC00EADB11 /* CoffeeViewModel.swift in Sources */,
