@@ -22,6 +22,7 @@
 		B53FD48A2396251100EADB11 /* AddCoffeeOrderViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD4892396251100EADB11 /* AddCoffeeOrderViewModel.swift */; };
 		B53FD48C239625EC00EADB11 /* CoffeeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD48B239625EC00EADB11 /* CoffeeViewModel.swift */; };
 		B53FD48E23A0280D00EADB11 /* AddCoffeeOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */; };
+		B53FD49023A04C0500EADB11 /* OrderTotalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53FD48F23A04C0500EADB11 /* OrderTotalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		B53FD4892396251100EADB11 /* AddCoffeeOrderViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderViewModel.swift; sourceTree = "<group>"; };
 		B53FD48B239625EC00EADB11 /* CoffeeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeViewModel.swift; sourceTree = "<group>"; };
 		B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeeOrderView.swift; sourceTree = "<group>"; };
+		B53FD48F23A04C0500EADB11 /* OrderTotalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTotalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				B53FD4672395AA3600EADB11 /* ContentView.swift */,
 				B53FD4852395D5CF00EADB11 /* OrderListView.swift */,
 				B53FD48D23A0280D00EADB11 /* AddCoffeeOrderView.swift */,
+				B53FD48F23A04C0500EADB11 /* OrderTotalView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				B53FD4882395DD7800EADB11 /* CreateOrderResponse.swift in Sources */,
 				B53FD48E23A0280D00EADB11 /* AddCoffeeOrderView.swift in Sources */,
 				B53FD4642395AA3600EADB11 /* AppDelegate.swift in Sources */,
+				B53FD49023A04C0500EADB11 /* OrderTotalView.swift in Sources */,
 				B53FD4662395AA3600EADB11 /* SceneDelegate.swift in Sources */,
 				B53FD48C239625EC00EADB11 /* CoffeeViewModel.swift in Sources */,
 				B53FD47B2395CD3D00EADB11 /* Order.swift in Sources */,
