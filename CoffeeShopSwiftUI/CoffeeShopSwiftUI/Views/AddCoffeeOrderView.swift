@@ -52,6 +52,8 @@ struct CoffeeCellView: View {
         .font(.title)
         .padding([.leading], 20)
       
+      Spacer()
+      
       Image(systemName: self.selection == self.coffee.name ? "checkmark": "")
       .padding()
     }.onTapGesture {
